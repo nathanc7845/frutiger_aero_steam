@@ -1,0 +1,10 @@
+INSTRUÇÕES PARA ADICIONAR A IMAGEM DE FUNDO
+============================================
+
+1. Adicione a imagem 2 (a imagem do globo quebrado com cidade e água) nesta pasta
+2. Renomeie o arquivo para: background.jpg
+3. Ou se preferir outro formato, edite o arquivo theme.css e altere o caminho
+
+Formatos suportados: .jpg, .jpeg, .png, .webp
+
+Recomendação: Use uma imagem de alta resolução (1920x1080 ou superior) para melhor qualidade.

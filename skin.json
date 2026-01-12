@@ -1,0 +1,24 @@
+{
+  "name": "Frutiger Aero",
+  "version": "1.0.0",
+  "author": "Dkznnsx",
+  "description": "Theme Frutiger Aero clean",
+  "tags": [
+    "Frutiger Aero",
+    "Clean",
+    "Modern",
+    "Glassmorphism",
+    "Responsive"
+  ],
+  "funding": {
+    "kofi": "neitannx"
+  },
+  "Steam-WebKit": "theme.css",
+  "UseDefaultPatches": true,
+  "Patches": [
+    {
+      "MatchRegexString": ".*",
+      "TargetCss": "theme.css"
+    }
+  ]
+}
